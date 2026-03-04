@@ -1,0 +1,11 @@
+node_modules
+dist
+.cache
+.env
+.git
+.github
+tauri
+mcp-server
+*.md
+.idea
+.DS_Store
